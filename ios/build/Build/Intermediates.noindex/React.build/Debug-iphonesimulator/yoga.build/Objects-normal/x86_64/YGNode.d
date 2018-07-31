@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.cpp \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/ReactCommon/yoga/yoga/YGLayout.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/ReactCommon/yoga/yoga/Utils.h

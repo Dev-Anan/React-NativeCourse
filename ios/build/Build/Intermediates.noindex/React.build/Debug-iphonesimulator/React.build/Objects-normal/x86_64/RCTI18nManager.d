@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/React/Modules/RCTI18nManager.m \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/React/Modules/RCTI18nManager.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native/React/Modules/RCTI18nUtil.h

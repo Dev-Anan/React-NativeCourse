@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.m \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMExampleDrawerVisualStateManager.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerVisualState.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerHelper.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/RCCManagerModule.h \
+  /Users/Anan/Desktop/React-Native/ReactNativeCourse/node_modules/react-native-navigation/ios/UIViewController+Rotation.h
