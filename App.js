@@ -32,7 +32,7 @@ Navigation.registerComponent(
 );
 
 Navigation.registerComponent(
-  "ReactNativeCourse.PlaceeDetialScreen",
+  "ReactNativeCourse.PlaceDetialScreen",
   () => PlaceDetailScreen,
   store,
   Provider
