@@ -11,7 +11,7 @@ const startTabs = () => {
     Navigation.startTabBasedApp({
       tabs: [
         {
-          screen: "ReactNativeCourse.FindPlaceSreen",
+          screen: "ReactNativeCourse.FindPlaceScreen",
           label: "Find Place",
           title: "Find Place",
           icon: sources[0],
@@ -33,7 +33,7 @@ const startTabs = () => {
           }
         },
         {
-          screen: "ReactNativeCourse.SharePlaceSreen",
+          screen: "ReactNativeCourse.SharePlaceScreen",
           label: "Share Place",
           title: "Share Place",
           icon: sources[1],

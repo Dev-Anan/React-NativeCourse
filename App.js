@@ -2,14 +2,14 @@ import { Navigation } from "react-native-navigation";
 import { Provider } from "react-redux";
 
 import AuthScreen from "./src/screens/Auth/Auth";
-import SharePlaceSreen from "./src/screens/SharePlace/SharePlace";
-import FindPlaceSreen from "./src/screens/FindPlace/FindPlace";
+import SharePlaceScreen from "./src/screens/SharePlace/SharePlace";
+import FindPlaceScreen from "./src/screens/FindPlace/FindPlace";
 import configureStore from "./src/store/configureStore";
 import SideDrawer from "./src/screens/SideDrawer/SideDrawer";
 import PlaceDetailScreen from "./src/screens/PlaceDetail/PlaceDetail";
 
 const store = configureStore();
-//Register Sreen
+//Register Screen
 Navigation.registerComponent(
   "ReactNativeCourse.AuthScreen",
   () => AuthScreen,
@@ -18,21 +18,21 @@ Navigation.registerComponent(
 );
 
 Navigation.registerComponent(
-  "ReactNativeCourse.SharePlaceSreen",
-  () => SharePlaceSreen,
+  "ReactNativeCourse.SharePlaceScreen",
+  () => SharePlaceScreen,
   store,
   Provider
 );
 
 Navigation.registerComponent(
-  "ReactNativeCourse.FindPlaceSreen",
-  () => FindPlaceSreen,
+  "ReactNativeCourse.FindPlaceScreen",
+  () => FindPlaceScreen,
   store,
   Provider
 );
 
 Navigation.registerComponent(
-  "ReactNativeCourse.PlaceDetialScreen",
+  "ReactNativeCourse.PlaceDetailScreen",
   () => PlaceDetailScreen,
   store,
   Provider

@@ -62,7 +62,7 @@ class FindPlaceScreen extends Component {
       return place.key === key;
     });
     this.props.navigator.push({
-      screen: "ReactNativeCourse.PlaceDetialScreen",
+      screen: "ReactNativeCourse.PlaceDetailScreen",
       title: selPlace.name,
       passProps: {
         selectedPlace: selPlace
