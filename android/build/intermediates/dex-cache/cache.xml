@@ -3,192 +3,327 @@
 
     <item
         is-multidex="false"
-        jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_691214d1f75a17e0362ad11189f706edaaf899a5.jar" />
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_a830b8f44e0fe0091e4e5d520f2758af04053c92.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_7de239a2293c1c7a148273b064833dee8c18ed8a.jar" />
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_9c8740e470cb83ecd76613f3142b2d64adef743f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_13c852a7f60121a23da7bc78281dbe0c234fb59f.jar" />
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_f503e0d9053ec2bf28c462dfaa7128ae1e6bb174.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ecae0f11055244a59772aad12c761044dde87c4d.jar" />
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_00dedd8d87fc4dbbc0b48fa7b7dc9e6c57881b1c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/ReactNativeCourse/react-native-vector-icons/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2803816ad90087512a85433b10a05139b9ce987b.jar" />
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/ReactNativeCourse-react-native-vector-icons-unspecified_cfb05bbbf1f9339093187b9e72185b66667de380.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_dfac3483c44d2fcc17a618f1613dc3a220b4ff80.jar" />
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_9a7b2e2378c3e3886f863c0f248d6c47db9f6279.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c6214062340e9e4fb1fee86ea721272ab84c2f97.jar" />
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_f6003deebb8892ef478a008b12686b8144bb22df.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_4e46ec2b70eca6522c2188b37be068f93d5d5cdd.jar" />
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_7e3e0bd541f9e909cd476291b43c5061acb98f86.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_5636a75fe583829e2c08b6aff45a7af1365df5d2.jar" />
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_e3d2b038186faf98c665f542bd63aa42e5517bf6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_ada2600fd6a8c4bb49f265b8abc2dbcfb28b4b17.jar" />
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_1d870b62e1a3ce0a4116a4889cd091cb5a44ac76.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_760838bd721d2db753cd89163f32ac8db69621a8.jar" />
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f635418f7058b9fc270314f46c7fa1a3acadacbf.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_c7f7c3d882965ca77e582ae111523364b2dc3a37.jar" />
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_70292fd6eb4f0fb3f80c7d70876d8ee797f1aedb.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
+        revision="25.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_eda8f0d1818fdb2710aba72c7495f90114163df9.jar" />
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_eda8f0d1818fdb2710aba72c7495f90114163df9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_ed1e51a3d34bf0e391ac6f63e70cefc8086ec2c6.jar" />
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_3a5a4754b1c2c17d3abd978faa82e378a402b200.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b55fcd00aa295c0c1b3577709eabd40fab0a0f82.jar" />
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_dfac3483c44d2fcc17a618f1613dc3a220b4ff80.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bcf93be9e75bd77a92e5575b14780a9167abc27b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Anan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_04b87249a1e7c991ae0645d365487f741de608f2.jar" />
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_a849c049ddd9d307b60258b534b6ca8f69b7f435.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
+        revision="25.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ef448a8b46912948a75876f582b6a13fdd16889f.jar" />
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ef448a8b46912948a75876f582b6a13fdd16889f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_3a1faf5f1c430b26b749d36d9628b9abc799a72d.jar" />
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_fdb5eb050d0016e0e73b352eb2c30a656249d914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_48548663ba4afe87161aeb621e4f60d915ce274e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_691214d1f75a17e0362ad11189f706edaaf899a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_268c95d50e7e770899b6cd80f93abe6b5fcff00e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_13c1cc03eb5eafe8dd84285fe57e1f23289437af.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
+        revision="25.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_512ccd3ed65c977ecf2dbbbda783d11c8923705d.jar" />
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_512ccd3ed65c977ecf2dbbbda783d11c8923705d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/Anan/Desktop/React-Native/ReactNativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_2ccc99635e9a9c5288205b662f3aac916732bef9.jar" />
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_70334ef08b6757eddea563d83b1f37c828cb0ad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_5221932e4ab682823171bc37a9b084d58c07787b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_c690c5042fee40a9499175ffe99b76e33d92d9ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c6214062340e9e4fb1fee86ea721272ab84c2f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_a6bf5883dc1b438b57aceab1dc39d2ed2c8d1506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_53ef1b26ced16d9d80d88fb82822931a69d4f13f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_c2e644056f5db7e721c91527405b49802f2e4ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_2b52807340a3ace047b2df2842a25f0a191319dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2803816ad90087512a85433b10a05139b9ce987b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_994bd047f7173c6083f2f9899db0a70242a5a7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_306d9b34b7eaa3dadd930da4f1aca3ea241743bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_b6e54e9efc9356b31b28a69e5862cf41e462963f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/exploded-aar/ReactNativeCourse/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="231a7c0e8b325da7c38e52360891eb93c7f3faca">
+        <dex dex="/Users/Anan/Desktop/React-NativeCourse/android/app/build/intermediates/pre-dexed/debug/ReactNativeCourse-react-native-navigation-unspecified_175c08264b2d16d4c5fbe2988a223e63a50560ef.jar" />
     </item>
 
 </items>
